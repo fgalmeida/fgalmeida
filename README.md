@@ -4,4 +4,5 @@
 
 - 📕 Cursando 9⁰ Ano
 - 📌 Idade: 15 anos
+- 🛠 Node.js, React.js etc..
 - ✉️ Contato: **felipegoa@hotmail.com**
