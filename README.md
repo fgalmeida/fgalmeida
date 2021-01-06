@@ -3,6 +3,6 @@
 
 
 - 📕 Studying: 1⁰ Ano, 2⁰ grau
-- 📌 Age: 15 anos
+- 📌 Age: 16 years
 - 🛠 React Native, React.js etc..
 - ✉️ Contact: **felipegoa@hotmail.com**
