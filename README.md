@@ -1,6 +1,6 @@
-### Hi there, I'm Felipe 👋
+## Hi there, I'm Felipe 👋
 
-## I'm a programming student focused on Desktop, Web and Mobile development! 
+### I'm a programming student focused on Desktop, Web and Mobile development! 
 
 - 📕 Studying: 1⁰ year of high school
 - 📌 Age: 16 years
@@ -25,7 +25,6 @@
 <br/>
 <br/>
 <br/>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
