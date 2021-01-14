@@ -1,6 +1,8 @@
 <h1 align = "center"> Hi there, I'm Felipe Almeida </h1>
 <h3 align = "center"> I'm a programming student focused on Desktop, Web and Mobile development! </h3>
 
+<br/>
+
 - 📕 Studying: 1⁰ year of high school
 - 📌 Age: 16 years
 - 🛠 React Native, React.js etc..
@@ -22,7 +24,6 @@
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <p/>
-<br/>
 <br/>
 
   <img align="center" alt="Fga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&hide_border=true" />
