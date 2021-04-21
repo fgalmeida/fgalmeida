@@ -3,14 +3,14 @@
 
 <br/>
 
+<img align="right" alt="Fga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&hide_border=true" />
+
 - 📕 Studying: 1⁰ year of high school
 - 📌 Age: 16 years
-- 🛠 React Native, React.js etc..
+- 🛠 React Native, React.js, Next.js...
 - ✉️ Contact: **felipegoa@hotmail.com**
-
-<h4 align = "center"> Languages and Tools <h4/>
-
-<p align = "center">
+<h4 align = "left"> Languages and Tools <h4/>
+<p align = "left">
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -25,7 +25,5 @@
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <p/>
 <br/>
-
-  <img align="center" alt="Fga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&hide_border=true" />
 
 
