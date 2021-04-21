@@ -23,7 +23,7 @@
 <p/>
 <br/>
 <h3 align="center">
-	⬇⬇ Check my pinned projects below ⬇⬇
+	🔽 Check my pinned projects below 🔽
 </h3>
 <p align="center">
 	<i>Please take into account they are WIP!<i>
