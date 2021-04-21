@@ -25,5 +25,10 @@
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <p/>
 <br/>
-
+<h3 align="center">
+	⬇⬇ Check my pinned projects below ⬇⬇
+</h3>
+<p align="center">
+	<i>Please take into account they are WIP!<i>
+</p>
 
