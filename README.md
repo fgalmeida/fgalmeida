@@ -1,4 +1,4 @@
-## Hey, I'm Felipe Almeida <img align="right" alt="GitHub followers" src="https://visitor-badge.glitch.me/badge?page_id=github/fgalmeida">
+## Hey, I'm Felipe Almeida <img align="right" alt="GitHub" src="https://visitor-badge.glitch.me/badge?page_id=github/fgalmeida">
  <div>
   <a href="https://github.com/fgalmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&hide_border=true" />
