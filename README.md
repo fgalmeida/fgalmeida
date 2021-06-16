@@ -3,12 +3,8 @@
   :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Felipe Almeida</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=VIEWS" align="right" alt="Views"><br>
   
 
- > 123
+ > Sobre mim: <br> Tenho <strong> 16 anos </strong> e atualmente, sou estudante do Curso Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense - IFSul (Bagé, RS). Tenho foco em desenvolvimento <strong> Web e Mobile </strong>! e também em UI Design. <br>
 </p>
-<br>
-<br>
-<br>
-<br>
 
  **Linguagens e Frameworks:**
 
