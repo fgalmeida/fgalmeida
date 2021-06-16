@@ -1,4 +1,4 @@
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev Activity">
+<img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev Activity">
 <p align="left"> 
   :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Felipe Almeida</strong><br>
  
