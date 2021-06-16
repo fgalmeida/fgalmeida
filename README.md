@@ -1,10 +1,12 @@
-<img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev Activity">
+<img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dev Activity">
 <p align="left"> 
   :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Felipe Almeida</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=VIEWS" align="right" alt="Views"><br>
   
 
  > 123
 </p>
+<br>
+<br>
 
  **Linguagens e Frameworks:**
 
