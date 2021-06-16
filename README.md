@@ -30,7 +30,7 @@
  
  <p align="left">
      <a href="mailto:felipegoa@hotmail.com">
-        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+        <img src="https://img.shields.io/badge/Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
     </a>
      <a href="https://www.instagram.com/fgalmeida_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
