@@ -1,6 +1,6 @@
 <img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dev Activity">
 <p align="left"> 
-  :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Felipe Almeida</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=VIEWS" align="right" alt="Views"><br>
+  :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Felipe Almeida</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
   
 
  > Sobre mim: <br> Tenho <strong> 16 anos </strong> e atualmente, sou estudante do Curso Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense - IFSul (Bagé, RS). Tenho foco em desenvolvimento <strong> Web e Mobile </strong>! e também em UI Design. <br>
