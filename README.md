@@ -39,10 +39,10 @@
     </a>
 </p>
 
-**Games:**
+<!--**Games:**
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)-->
  
  <details>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
