@@ -47,11 +47,11 @@
  <details>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
-    <p align="center">
-      <a href="https://github.com/fgalmeida">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&title_color=6C63FF&icon_color=536DFE&text_color=333&bg_color=fffefe&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgalmeida&layout=compact&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=536DFE&text_color=333&bg_color=fffefe" />
-    </p>
+    <div align="center">
+      <img width=100% src="http://github-readme-streak-stats.herokuapp.com?user=fgalmeida&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=0D1117&sideLabels=FFFFFF&dates=837BFF&currStreakNum=837BFF&border=DD2727&currStreakLabel=FFFFFF&ring=E1DFFE&fire=837BFF&sideNums=837BFF" alt="Felipe Almeida"/>
+      <img align="center" width=49.7% height="100%" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&title_color=6C63FF&icon_color=536DFE&text_color=ffff&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true" />
+      <img align="center" width=49.7% height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgalmeida&layout=compact&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=536DFE&text_color=ffff&bg_color=0D1117&langs_count=4&hide_border=true" />
+  </div>
 </details>
   
   ##
