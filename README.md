@@ -1,62 +1,84 @@
-<img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dev Activity">
-<p align="left"> 
-  :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Felipe Almeida</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
-  
- **Linguagens e Frameworks:**
+### Oi, eu sou o Felipe Almeida
 
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
- ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- 
+Desenvolvedor full-stack há mais de 5 anos, dono de uma software house e cofundador do **[CliniPlus](https://app.meucliniplus.com.br)**.
 
- **Ferramentas de Desenvolvimento:** 
+Construo aplicações web de ponta a ponta: produto, interface, API, banco, pagamentos, automações e IA. Comecei pelo frontend, passei por agência e universidade, e hoje atendo empresas pela minha software house enquanto construo o CliniPlus. Saí de Bagé, no interior do RS, e moro em Balneário Camboriú, SC.
 
- ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) 
- ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
- 
- **Onde me encontrar:**
- 
- <p align="left">
-     <a href="mailto:felipegoa@hotmail.com">
-        <img src="https://img.shields.io/badge/Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-    </a>
-     <a href="https://www.instagram.com/fgalmeida_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-</p>
+Técnico em Informática pelo IFSul, cursando Engenharia de Software.
 
-<!--**Games:**
+---
 
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)-->
- 
- <details>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-    <div align="center">
-      <img width=100% src="http://github-readme-streak-stats.herokuapp.com?user=fgalmeida&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=0D1117&sideLabels=FFFFFF&dates=837BFF&currStreakNum=837BFF&border=DD2727&currStreakLabel=FFFFFF&ring=E1DFFE&fire=837BFF&sideNums=837BFF" alt="Felipe Almeida"/>
-      <img align="center" width=49.7% height="100%" src="https://github-readme-stats.vercel.app/api?username=fgalmeida&show_icons=true&title_color=6C63FF&icon_color=536DFE&text_color=ffff&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true" />
-      <img align="center" width=49.7% height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgalmeida&layout=compact&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=536DFE&text_color=ffff&bg_color=0D1117&langs_count=4&hide_border=true" />
-  </div>
-</details>
-  
-  ##
-  
-<div>
-  <h3 align="center"> 🔽 Check my pinned projects below 🔽 </h3>
-<p align="center">
-  <i> Please take into account they are WIP! </i>
-</p>
-</div>
+#### Trajetória
+
+| Quando | O quê | Onde |
+| --- | --- | --- |
+| atual | **Cofundador** do CliniPlus, à frente do produto e da tecnologia | Balneário Camboriú, SC |
+| 2025 – atual | **Dono de software house**: sistemas, automações (n8n, Evolution API, Stays API) e IA para empresas como HUBGPS, BERSEBAHOSTS e DESBRAVA.AI | remoto |
+| 2024 – 2025 | **Desenvolvedor full-stack pleno** | Insight Marketing Digital, PJ |
+| 2023 – 2024 | **Estagiário de desenvolvimento** | UERGS, Bagé, RS |
+| 2021 – 2022 | **Desenvolvedor frontend** | Elliptic Technology, remoto |
+
+Projetos que entreguei nesse caminho: landing pages, e-commerces, sistemas web e APIs, entre eles Atrium, Boa de Venda, Solvee e Pitupi.
+
+---
+
+#### Agora: CliniPlus
+
+<a href="https://app.meucliniplus.com.br">
+  <img src="./banner.png" alt="CliniPlus: sua clínica no automático" width="100%">
+</a>
+
+SaaS pra clínicas com agenda, CRM, financeiro e IA no WhatsApp em um só lugar. Fundei com a minha sócia e cuido do produto: desenvolvimento e suporte.
+
+- Chatbot de atendimento com editor visual de fluxos
+- IA que atende o WhatsApp fora do horário e passa pra equipe quando precisa
+- Agenda com lembretes e confirmação automática
+- CRM com funil, tags, tarefas e automações por fila
+- Cobrança recorrente com Stripe
+
+```
+0$ 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10K$/MRR
+```
+
+O código é privado. Conto o caminho em público no X: [@fgalmeida_](https://x.com/fgalmeida_)
+
+---
+
+#### Stack
+
+**Front:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Back e dados:**
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=white)
+
+**Pagamentos, automação e IA:**
+![Stripe](https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-000000?style=flat-square&logo=mercadopago&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+
+**Design:**
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+#### Contato
+
+[![X](https://img.shields.io/badge/@fgalmeida__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fgalmeida_)
+[![LinkedIn](https://img.shields.io/badge/in%2Ffgalmeidaa-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgalmeidaa)
+[![Portfólio](https://img.shields.io/badge/portfolio.fgalmeida.com-000000?style=flat-square&logoColor=white)](https://portfolio.fgalmeida.com)
+[![Instagram](https://img.shields.io/badge/@fgalmeida__-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fgalmeida_)
