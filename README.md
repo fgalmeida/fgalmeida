@@ -80,5 +80,5 @@ O código é privado. Conto o caminho em público no X: [@fgalmeida_](https://x.
 
 [![X](https://img.shields.io/badge/@fgalmeida__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fgalmeida_)
 [![LinkedIn](https://img.shields.io/badge/in%2Ffgalmeidaa-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgalmeidaa)
-[![Portfólio](https://img.shields.io/badge/portfolio.fgalmeida.com-000000?style=flat-square&logoColor=white)](https://portfolio.fgalmeida.com)
+[![Portfólio](https://img.shields.io/badge/fgalmeida.com-000000?style=flat-square&logoColor=white)](https://fgalmeida.com)
 [![Instagram](https://img.shields.io/badge/@fgalmeida__-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fgalmeida_)
