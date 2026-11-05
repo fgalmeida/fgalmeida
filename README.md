@@ -1,8 +1,8 @@
 ### Oi, eu sou o Felipe Almeida
 
-Desenvolvedor full-stack há mais de 5 anos, dono de uma software house e cofundador do **[CliniPlus](https://app.meucliniplus.com.br)**.
+Desenvolvedor full-stack há mais de 5 anos, fundador e CEO da **[Kynza](https://github.com/kynzabr)** e cofundador do **[CliniPlus](https://app.meucliniplus.com.br)**.
 
-Construo aplicações web de ponta a ponta: produto, interface, API, banco, pagamentos, automações e IA. Comecei pelo frontend, passei por agência e universidade, e hoje atendo empresas pela minha software house enquanto construo o CliniPlus. Saí de Bagé, no interior do RS, e moro em Balneário Camboriú, SC.
+Construo aplicações web de ponta a ponta: produto, interface, API, banco, pagamentos, automações e IA. Comecei pelo frontend, passei por agência e universidade, e hoje atendo empresas pela Kynza, minha software house, enquanto construo o CliniPlus. Saí de Bagé, no interior do RS, e moro em Balneário Camboriú, SC.
 
 Técnico em Informática pelo IFSul, cursando Engenharia de Software.
 
@@ -13,7 +13,7 @@ Técnico em Informática pelo IFSul, cursando Engenharia de Software.
 | Quando | O quê | Onde |
 | --- | --- | --- |
 | atual | **Cofundador** do CliniPlus, à frente do produto e da tecnologia | Balneário Camboriú, SC |
-| 2025 – atual | **Dono de software house**: sistemas, automações (n8n, Evolution API, Stays API) e IA para empresas como HUBGPS, BERSEBAHOSTS e DESBRAVA.AI | remoto |
+| 2025 – atual | **Fundador e CEO da [Kynza](https://github.com/kynzabr)**: sistemas, automações (n8n, Evolution API, Stays API) e agentes de IA para empresas como HUBGPS, BERSEBAHOSTS e DESBRAVA.AI | remoto |
 | 2024 – 2025 | **Desenvolvedor full-stack pleno** | Insight Marketing Digital, PJ |
 | 2023 – 2024 | **Estagiário de desenvolvimento** | UERGS, Bagé, RS |
 | 2021 – 2022 | **Desenvolvedor frontend** | Elliptic Technology, remoto |
@@ -22,7 +22,24 @@ Projetos que entreguei nesse caminho: landing pages, e-commerces, sistemas web e
 
 ---
 
-#### Agora: CliniPlus
+#### Agora: Kynza
+
+<a href="https://github.com/kynzabr">
+  <img src="./kynza-banner.png" alt="Kynza: software de ponta a ponta, do design ao deploy" width="100%">
+</a>
+
+A Kynza é a minha software house. Desenvolvemos sistemas sob medida, automações e agentes de IA, do diagnóstico ao deploy. Já são mais de 40 empresas atendidas.
+
+- Agentes de IA no WhatsApp, por texto e voz, integrados ao CRM
+- Automação de processos com n8n, APIs e integrações
+- Sistemas web e SaaS multi-tenant, com assinaturas e pagamentos
+- Até 70% menos tempo em tarefas manuais dos clientes
+
+[github.com/kynzabr](https://github.com/kynzabr) · [@kynzabr](https://instagram.com/kynzabr)
+
+---
+
+#### Também: CliniPlus
 
 <a href="https://app.meucliniplus.com.br">
   <img src="./banner.png" alt="CliniPlus: sua clínica no automático" width="100%">
@@ -81,4 +98,6 @@ O código é privado. Conto o caminho em público no X: [@fgalmeida_](https://x.
 [![X](https://img.shields.io/badge/@fgalmeida__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fgalmeida_)
 [![LinkedIn](https://img.shields.io/badge/in%2Ffgalmeidaa-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgalmeidaa)
 [![Portfólio](https://img.shields.io/badge/fgalmeida.com-000000?style=flat-square&logoColor=white)](https://fgalmeida.com)
+[![Links](https://img.shields.io/badge/fgalmeida.com%2Flinks-000000?style=flat-square&logoColor=white)](https://fgalmeida.com/links)
+[![Kynza](https://img.shields.io/badge/Kynza-0AA5B5?style=flat-square&logo=github&logoColor=white)](https://github.com/kynzabr)
 [![Instagram](https://img.shields.io/badge/@fgalmeida__-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fgalmeida_)
