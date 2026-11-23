@@ -64,6 +64,10 @@ O código é privado. Conto o caminho em público no X: [@fgalmeida_](https://x.
 
 #### Também: Notyza
 
+<a href="https://notyza.com.br">
+  <img src="./notyza-banner.png" alt="Notyza: nota fiscal por API, sem complicação" width="100%">
+</a>
+
 Nota fiscal por API, sem complicação. NFS-e Nacional, NF-e, NFC-e e MDF-e para empresas do Simples, direto no governo, com a recusa explicada em português.
 
 - API REST, painel e servidor MCP para emitir notas conversando com IA
