@@ -74,7 +74,7 @@ Nota fiscal por API, sem complicação. NFS-e Nacional, NF-e, NFC-e e MDF-e para
 - Cada venda na Kiwify, Stripe, AbacatePay e outras plataformas vira nota sozinha
 - Bibliotecas oficiais e abertas para Node.js, Python e PHP
 
-[notyza.com.br](https://notyza.com.br) · [github.com/Notyza](https://github.com/Notyza)
+[notyza.com.br](https://notyza.com.br) · [github.com/Notyza](https://github.com/Notyza) · [todos os links](https://notyza.com.br/links)
 
 ---
 
