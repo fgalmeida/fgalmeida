@@ -1,6 +1,6 @@
 ### Oi, eu sou o Felipe Almeida
 
-Desenvolvedor full-stack há mais de 5 anos, fundador e CEO da **[Kynza](https://github.com/kynzabr)** e cofundador do **[CliniPlus](https://app.meucliniplus.com.br)**.
+Desenvolvedor full-stack há mais de 5 anos, fundador e CEO da **[Kynza](https://github.com/kynzabr)**, fundador da **[Notyza](https://notyza.com.br)** e cofundador do **[CliniPlus](https://app.meucliniplus.com.br)**.
 
 Construo aplicações web de ponta a ponta: produto, interface, API, banco, pagamentos, automações e IA. Comecei pelo frontend, passei por agência e universidade, e hoje atendo empresas pela Kynza, minha software house, enquanto construo o CliniPlus. Saí de Bagé, no interior do RS, e moro em Balneário Camboriú, SC.
 
@@ -12,6 +12,7 @@ Técnico em Informática pelo IFSul, cursando Engenharia de Software.
 
 | Quando | O quê | Onde |
 | --- | --- | --- |
+| 2026 – atual | **Fundador da [Notyza](https://notyza.com.br)**: nota fiscal por API para empresas do Simples | remoto |
 | atual | **Cofundador** do CliniPlus, à frente do produto e da tecnologia | Balneário Camboriú, SC |
 | 2025 – atual | **Fundador e CEO da [Kynza](https://github.com/kynzabr)**: sistemas, automações (n8n, Evolution API, Stays API) e agentes de IA para empresas como HUBGPS, BERSEBAHOSTS e DESBRAVA.AI | remoto |
 | 2024 – 2025 | **Desenvolvedor full-stack pleno** | Insight Marketing Digital, PJ |
@@ -58,6 +59,18 @@ SaaS pra clínicas com agenda, CRM, financeiro e IA no WhatsApp em um só lugar.
 ```
 
 O código é privado. Conto o caminho em público no X: [@fgalmeida_](https://x.com/fgalmeida_)
+
+---
+
+#### Também: Notyza
+
+Nota fiscal por API, sem complicação. NFS-e Nacional, NF-e, NFC-e e MDF-e para empresas do Simples, direto no governo, com a recusa explicada em português.
+
+- API REST, painel e servidor MCP para emitir notas conversando com IA
+- Cada venda na Kiwify, Stripe, AbacatePay e outras plataformas vira nota sozinha
+- Bibliotecas oficiais e abertas para Node.js, Python e PHP
+
+[notyza.com.br](https://notyza.com.br) · [github.com/Notyza](https://github.com/Notyza)
 
 ---
 
